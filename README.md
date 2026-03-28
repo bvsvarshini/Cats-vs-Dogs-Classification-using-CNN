@@ -61,10 +61,10 @@ The dataset used is **CIFAR-10**, which contains 60,000 32x32 color images acros
 
 ---
 
-## 🗂️ Project Structure
+```## 🗂️ Project Structure
 Cats-vs-Dogs-Classification-using-CNN/
 ├── Cats_vs_Dogs_Classification_using_CNN.ipynb # Main notebook
-└── README.md # Documentation
+└── README.md # Documentation```
 
 
 ---
